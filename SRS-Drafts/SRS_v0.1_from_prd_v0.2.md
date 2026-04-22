@@ -1,7 +1,7 @@
 # Software Requirements Specification (SRS)
 
 **Document ID**: SRS-001  
-**Revision**: 1.0  
+**Revision**: 0.1  
 **Date**: 2026-04-15  
 **Standard**: ISO/IEC/IEEE 29148:2018  
 
